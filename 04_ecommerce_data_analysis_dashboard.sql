@@ -1,3 +1,6 @@
+-- ==============================================
+-- CUSTOMER ACQUISITION ANALYSIS
+-- ==============================================
 
 -- Customer Acquisition by Month
 SELECT 
